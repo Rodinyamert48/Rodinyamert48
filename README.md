@@ -45,9 +45,9 @@
 
 # 📊 GitHub İstatistikleri
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rodinyamert48\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48\&layout=compact)
 
 ---
 
