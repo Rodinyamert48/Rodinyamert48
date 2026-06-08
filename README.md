@@ -1,94 +1,69 @@
 # 👋 Merhaba, Ben Mert
 
-## 👨‍💻 Bilişim Teknolojileri Öğrencisi
+<div align="center">
 
-Yazılım geliştirme, masaüstü uygulamaları, web teknolojileri ve oyun geliştirme alanlarında çalışmalar yapıyorum. Sürekli yeni teknolojiler öğrenerek kendimi geliştirmeyi ve öğrendiklerimi gerçek projelerde uygulamayı hedefliyorum.
+### 👨‍💻 Bilişim Teknolojileri Öğrencisi
 
----
+💻 Software Developer • 🌐 Web Developer • 🎮 Game Developer
 
-## 🚀 Teknoloji Yığınım
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Web+Developer;Always+Learning+New+Things" />
 
-### 💻 Programlama Dilleri
-
-* Python
-* C#
-* C++
-* JavaScript
-
-### 🌐 Web Geliştirme
-
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* Node.js
-
-### 🗄️ Veritabanları
-
-* MySQL
-* SQLite
-
-### 🛠️ Kullandığım Araçlar
-
-* Visual Studio
-* Visual Studio Code
-* Git
-* GitHub
-* Android Studio
+</div>
 
 ---
 
-## 📊 Yeteneklerim
+# 🚀 Hakkımda
 
-```text
-Python        ███████████████████░░
-C#            ██████████████████░░░
-C++           ███████████████░░░░░░
-HTML          ████████████████████░
-CSS           ███████████████████░░
-JavaScript    █████████████████░░░░
-PHP           ███████████████░░░░░░
-MySQL         ████████████████░░░░░
-```
-
-🎯 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum.
+* 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
+* 💻 Python, C#, C++ ile uygulamalar geliştiriyorum
+* 🌐 HTML, CSS, JavaScript ile web projeleri geliştiriyorum
+* 🗄️ MySQL ile veritabanı sistemleri geliştiriyorum
+* 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum
+* 📚 Sürekli yeni teknolojiler öğreniyorum
 
 ---
 
-## 💼 İlgi Alanlarım
+# 🛠️ Teknolojiler
 
-* Masaüstü Uygulama Geliştirme
-* Web Uygulamaları
-* Oyun Geliştirme
-* Yazılım Mimarisi
-* Veritabanı Sistemleri
-* Açık Kaynak Projeler
+## 💻 Programlama Dilleri
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-## 🎮 Üzerinde Çalıştığım Konular
+## 🌐 Web Teknolojileri
 
-* Python ile sistem araçları geliştirme
-* C# ile masaüstü uygulamaları geliştirme
-* Modern web uygulamaları geliştirme
-* Oyun launcher sistemleri
-* Oyun geliştirme teknolojileri
-* Veritabanı yönetimi
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+## 🗄️ Veritabanları
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## 📈 Hedeflerim
+# 📊 GitHub İstatistikleri
 
-* Profesyonel bir yazılım geliştirici olmak
-* Büyük ölçekli projeler geliştirmek
-* Açık kaynak projelere katkı sağlamak
-* Yazılım mimarisi konusunda uzmanlaşmak
-* Sürekli yeni teknolojiler öğrenmek
+![Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN\&layout=compact)
 
 ---
 
-## 📫 İletişim
+# 🎯 Hedeflerim
 
-GitHub profilimi inceleyerek projelerime göz atabilirsiniz.
+* 🚀 Profesyonel Yazılım Geliştirici Olmak
+* 🌍 Büyük Ölçekli Projeler Geliştirmek
+* 🎮 Kendi Oyunlarımı Yayınlamak
+* 📱 Mobil Uygulamalar Geliştirmek
+* 🔥 Açık Kaynak Projelere Katkı Sağlamak
 
-⭐ Yazılım geliştirme yolculuğum devam ediyor...
+---
+
+<div align="center">
+
+### ⭐ Profilimi ziyaret ettiğin için teşekkürler!
+
+</div>
+s
