@@ -1,4 +1,3 @@
-```markdown
 # 👋 Merhaba, Ben Mert
 
 <div align="center">
@@ -7,7 +6,7 @@
 
 💻 Software Developer • 🌐 Web Developer • 🎮 Game Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Rust+Developer;Web+Developer;React+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Rust+Developer;Web+Developer;React+Developer;Always+Learning+New+Things" />
 
 </div>
 
@@ -16,11 +15,11 @@
 # 🚀 Hakkımda
 
 - 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
-- 💻 Python, C#, C++, Rust ile uygulamalar geliştiriyorum
-- 🌐 HTML, CSS, JavaScript, React, Vue ve Angular ile web projeleri geliştiriyorum
-- 🗄️ MySQL, Firebase ve Supabase kullanıyorum
-- 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum
-- 📚 Sürekli yeni teknolojiler öğreniyorum
+- 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
+- 🌐 HTML, CSS, JavaScript, React, Vue.js ve Angular ile web projeleri geliştiriyorum.
+- 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
+- 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
+- 📚 Sürekli yeni teknolojiler öğreniyorum.
 
 ---
 
@@ -35,8 +34,6 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
----
-
 ## 🌐 Web Teknolojileri
 
 <p>
@@ -47,8 +44,6 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
-
----
 
 ## 🗄️ Veritabanları
 
@@ -64,7 +59,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
@@ -89,4 +84,3 @@
 ### ⭐ Profilimi ziyaret ettiğin için teşekkürler!
 
 </div>
-```
