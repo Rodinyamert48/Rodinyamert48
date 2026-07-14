@@ -6,7 +6,7 @@
 
 💻 Software Developer • 🌐 Web Developer • 🎮 Game Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Rust+Developer;Web+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Rust+Developer;PHP+Developer;Web+Developer;Mobile+Developer;Always+Learning+New+Things" />
 
 </div>
 
@@ -16,9 +16,9 @@
 
 * 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
 * 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
-* 🌐 HTML, CSS, JavaScript, React, Vue.js ve Angular ile web projeleri geliştiriyorum.
+* 🌐 HTML, CSS, JavaScript, React, Vue.js, Angular, PHP ve Tailwind CSS ile web projeleri geliştiriyorum.
 * 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
-* 📱 Java ve Flutter ile mobil uygulamalar geliştiriyorum.
+* 📱 Java, Flutter ve Dart ile mobil uygulamalar geliştiriyorum.
 * ⚙️ Node.js, Docker, Redis ve MonoGame ile projeler geliştiriyorum.
 * 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
 * 📚 Sürekli yeni teknolojiler öğreniyorum.
@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ## 🗄️ Veritabanları
@@ -60,6 +62,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ## ⚙️ Framework & Tools
