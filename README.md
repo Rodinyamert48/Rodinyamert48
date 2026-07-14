@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Bilişim Teknolojileri Öğrencisi
 
-💻 Software Developer • 🌐 Web Developer • 🎮 Game Developer
+💻 Software Developer • 🌐 Web Developer • 🎮 Game Developer • 📱 Mobile Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;C%23+Developer;C%2B%2B+Developer;Rust+Developer;PHP+Developer;Web+Developer;Mobile+Developer;Always+Learning+New+Things" />
 
@@ -16,12 +16,13 @@
 
 * 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
 * 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
-* 🌐 HTML, CSS, JavaScript, React, Vue.js, Angular, PHP ve Tailwind CSS ile web projeleri geliştiriyorum.
+* 🌐 HTML, CSS, JavaScript, PHP, Tailwind CSS ve TypeScript ile web projeleri geliştiriyorum.
 * 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
 * 📱 Java, Flutter ve Dart ile mobil uygulamalar geliştiriyorum.
-* ⚙️ Node.js, Docker, Redis ve MonoGame ile projeler geliştiriyorum.
+* ⚙️ Node.js, Docker, React, Vue.js, Angular, Redis ve MonoGame ile projeler geliştiriyorum.
 * 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
 * 📚 Sürekli yeni teknolojiler öğreniyorum.
+* 
 
 ---
 
@@ -95,12 +96,13 @@
 
 * 🎯 YKS'de ilk **100.000** sıralamaya girmek.
 * 🎓 Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği veya Bilgisayar Mühendisliği okumak.
-* 💼 Microsoft, Mojang Studios veya Rockstar Games'te Yazılım Geliştirici olarak çalışmak.
+* 💼 Microsoft, Mojang Studios,  veya Rockstar Games'te Yazılım Geliştirici olarak çalışmak.
 * 🚀 Profesyonel Yazılım Geliştirici olmak.
 * 🌍 Büyük Ölçekli Projeler geliştirmek.
 * 🎮 Kendi oyunlarımı geliştirip yayınlamak.
 * 📱 Mobil, masaüstü ve web uygulamaları geliştirmek.
 * 🔥 Açık kaynak projelere katkı sağlamak.
+* 💸 Bir projemi Play Store vey Steam içerisinde yayınlamak
 
 ---
 
