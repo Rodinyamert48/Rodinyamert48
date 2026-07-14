@@ -14,13 +14,14 @@
 
 # 🚀 Hakkımda
 
-- 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
-- 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
-- 🌐 HTML, CSS, JavaScript, React, Vue.js ve Angular ile web projeleri geliştiriyorum.
-- 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
-- ⚙️ Node.js, Docker, Redis ve MonoGame ile projeler geliştiriyorum.
-- 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
-- 📚 Sürekli yeni teknolojiler öğreniyorum.
+* 🎓 Bilişim Teknolojileri Alanı Yazılım Dalı Öğrencisi
+* 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
+* 🌐 HTML, CSS, JavaScript, React, Vue.js ve Angular ile web projeleri geliştiriyorum.
+* 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
+* 📱 Java ve Flutter ile mobil uygulamalar geliştiriyorum.
+* ⚙️ Node.js, Docker, Redis ve MonoGame ile projeler geliştiriyorum.
+* 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
+* 📚 Sürekli yeni teknolojiler öğreniyorum.
 
 ---
 
@@ -54,6 +55,13 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
+## 📱 Mobil Geliştirme
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
 ## ⚙️ Framework & Tools
 
 <p align="left">
@@ -81,14 +89,14 @@
 
 # 🎯 Hedeflerim
 
-- 🎯 YKS'de ilk **100.000** sıralamaya girmek.
-- 🎓 Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği veya Bilgisayar Mühendisliği okumak.
-- 💼 Microsoft, Mojang Studios veya Rockstar Games'te Yazılım Geliştirici olarak çalışmak.
-- 🚀 Profesyonel Yazılım Geliştirici olmak.
-- 🌍 Büyük Ölçekli Projeler geliştirmek.
-- 🎮 Kendi oyunlarımı geliştirip yayınlamak.
-- 📱 Mobil, masaüstü ve web uygulamaları geliştirmek.
-- 🔥 Açık kaynak projelere katkı sağlamak.
+* 🎯 YKS'de ilk **100.000** sıralamaya girmek.
+* 🎓 Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği veya Bilgisayar Mühendisliği okumak.
+* 💼 Microsoft, Mojang Studios veya Rockstar Games'te Yazılım Geliştirici olarak çalışmak.
+* 🚀 Profesyonel Yazılım Geliştirici olmak.
+* 🌍 Büyük Ölçekli Projeler geliştirmek.
+* 🎮 Kendi oyunlarımı geliştirip yayınlamak.
+* 📱 Mobil, masaüstü ve web uygulamaları geliştirmek.
+* 🔥 Açık kaynak projelere katkı sağlamak.
 
 ---
 
