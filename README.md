@@ -81,11 +81,14 @@
 
 # 🎯 Hedeflerim
 
-- 🚀 Profesyonel Yazılım Geliştirici Olmak
-- 🌍 Büyük Ölçekli Projeler Geliştirmek
-- 🎮 Kendi Oyunlarımı Yayınlamak
-- 📱 Mobil Uygulamalar Geliştirmek
-- 🔥 Açık Kaynak Projelere Katkı Sağlamak
+- 🎯 YKS'de ilk **100.000** sıralamaya girmek.
+- 🎓 Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği veya Bilgisayar Mühendisliği okumak.
+- 💼 Microsoft, Mojang Studios veya Rockstar Games'te Yazılım Geliştirici olarak çalışmak.
+- 🚀 Profesyonel Yazılım Geliştirici olmak.
+- 🌍 Büyük Ölçekli Projeler geliştirmek.
+- 🎮 Kendi oyunlarımı geliştirip yayınlamak.
+- 📱 Mobil, masaüstü ve web uygulamaları geliştirmek.
+- 🔥 Açık kaynak projelere katkı sağlamak.
 
 ---
 
