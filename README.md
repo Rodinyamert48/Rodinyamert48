@@ -18,7 +18,7 @@
 * 💻 Python, C#, C++ ve Rust ile uygulamalar geliştiriyorum.
 * 🌐 HTML, CSS, JavaScript, PHP, Tailwind CSS ve TypeScript ile web projeleri geliştiriyorum.
 * 🗄️ MySQL, Firebase ve Supabase kullanıyorum.
-* 📱 Java, Flutter ve Dart ile mobil uygulamalar geliştiriyorum.
+* 📱 Java ve Dart ile mobil uygulamalar geliştiriyorum.
 * ⚙️ Node.js, Docker, React, Vue.js, Angular, Redis ve MonoGame ile projeler geliştiriyorum.
 * 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
 * 📚 Sürekli yeni teknolojiler öğreniyorum.
