@@ -22,7 +22,6 @@
 * ⚙️ Node.js, Docker, React, Vue.js, Angular, Redis ve MonoGame ile projeler geliştiriyorum.
 * 🎮 Oyun geliştirme ve launcher sistemleri ile ilgileniyorum.
 * 📚 Sürekli yeni teknolojiler öğreniyorum.
-* 
 
 ---
 
