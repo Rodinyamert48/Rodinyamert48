@@ -80,11 +80,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
