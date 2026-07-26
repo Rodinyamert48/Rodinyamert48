@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/D++-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/D++-0078D7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/D++-00A86B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/D++-6F42C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/D++-000000?style=for-the-badge&logo=dpp&logoColor=white" />
 </p>
 
 ## 🌐 Web Teknolojileri
