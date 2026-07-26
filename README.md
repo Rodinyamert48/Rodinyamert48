@@ -50,12 +50,6 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" alt="Top Langs" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-
-  <br><br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
 
 </div>
