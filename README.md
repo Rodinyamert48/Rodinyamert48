@@ -6,8 +6,8 @@
 
 <!-- ANİMASYONLU TERMİNAL - Satır satır birikir, 10sn kalır, silinir, başa döner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=380&lines=%24+Python+%F0%9F%90%8D;%24+C%23+%E2%9A%A1;%24+C%2B%2B+%E2%9A%99%EF%B8%8F;%24+Rust+%F0%9F%A6%80;%24+JavaScript+%F0%9F%92%9B;%24+TypeScript+%F0%9F%92%99;%24+PHP+%F0%9F%94%B7;%24+Java+%F0%9F%98%8E;%24+Dart+%F0%9F%93%B1;%24+React+%E2%9A%9B%EF%B8%8F;%24+Vue.js+%F0%9F%92%9A;%24+Angular+%F0%9F%94%B4;%24+Node.js+%F0%9F%92%9A;%24+MonoGame+%F0%9F%8E%AE;%24+Docker+%F0%9F%90%B3;%24+MySQL+%F0%9F%97%84%EF%B8%8F;%24+Firebase+%F0%9F%94%A5" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=380&lines=%24+Python+%F0%9F%90%8D;%24+C%23+%E2%9A%A1;%24+C%2B%2B+%E2%9A%99%EF%B8%8F;%24+Rust+%F0%9F%A6%80;%24+JavaScript+%F0%9F%92%9B;%24+TypeScript+%F0%9F%92%99;%24+PHP+%F0%9F%94%B7;%24+Java+%F0%9F%98%8E;%24+Dart+%F0%9F%93%B1;%24+React+%E2%9A%9B%EF%B8%8F;%24+Vue.js+%F0%9F%92%9A;%24+Angular+%F0%9F%94%B4;%24+Node.js+%F0%9F%92%9A;%24+MonoGame+%F0%9F%8E%AE;%24+Docker+%F0%9F%90%B3;%24+MySQL+%F0%9F%97%84%EF%B8%8F;%24+Firebase+%F0%9F%94%A5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+HTML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+HTML" />
 </picture>
 
 </div>
@@ -46,25 +46,17 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
   <br><br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" alt="Top Langs" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
   <br><br>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -96,9 +88,6 @@
 
 <a href="https://github.com/Rodinyamert48">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:mertegek12@gmail.com">
-  <img src="https://img.shields.io/badge/mertegek12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
