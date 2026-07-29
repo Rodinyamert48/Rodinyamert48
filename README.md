@@ -5,8 +5,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&pause=13000&color=00FF88&multiline=true&repeat=true&width=700&height=210&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=500&pause=13000&color=00FF88&multiline=true&repeat=true&width=700&height=210&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
 </picture>
 
 </div>
