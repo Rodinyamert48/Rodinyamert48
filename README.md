@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RodinyaMert48)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rodinyamert48&theme=dark)
 
 
   <br><br>
