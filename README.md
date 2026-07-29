@@ -46,10 +46,7 @@
 
 <div align="center">
 
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rodinyamert48&theme=tokyonight&hide_border=true"/>
 
 
   <br><br>
