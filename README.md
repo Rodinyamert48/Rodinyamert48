@@ -31,6 +31,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,firebase&perline=2&theme=dark" />
+  <img src="ahir.png" width="48" height="48" alt="Ahir" />
 </p>
 
 ## ⚙️ Araçlar & Platformlar
@@ -38,6 +39,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,unity,unreal&perline=5&theme=dark" />
 </p>
+
+---
+
+# 📊 GitHub İstatistikleri
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+</div>
 
 ---
 
