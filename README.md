@@ -46,7 +46,8 @@
 
 <div align="center">
 
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  ![GitHub Streak](https://demolab.com)
+
 
 
   <br><br>
