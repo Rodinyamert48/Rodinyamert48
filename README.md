@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,firebase&perline=2&theme=dark" />
-  <img src="ahir.png" width="48" height="48" alt="Ahir" />
+  <img src="ahır.png" width="48" height="48" alt="Ahir" />
 </p>
 
 ## ⚙️ Araçlar & Platformlar
