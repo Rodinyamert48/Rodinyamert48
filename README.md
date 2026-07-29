@@ -1,13 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Mert&fontSize=100&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Bilişim%20Teknolojileri%20Öğrencisi%20|%20Developer&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Mert&fontSize=100&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Bili%C5%9Fim%20Teknolojileri%20%C3%96%C4%9Frencisi%20|%20Developer&descAlignY=55&descSize=22)
 
 <br>
 
-<!-- ANİMASYONLU TERMİNAL - Satır satır birikir, 10sn kalır, silinir, başa döner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+HTML" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+HTML" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=700&pause=12000&color=00FF88&multiline=true&repeat=true&width=700&height=200&lines=%24+C%23;%24+C%2B%2B;%24+Rust;%24+JavaScript;%24+TypeScript;%24+Python;%24+HTML" />
 </picture>
 
 </div>
@@ -19,7 +18,7 @@
 ## 💻 Programlama Dilleri
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,rust,html,css,js,ts&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,rust,html,css,js,ts,py&perline=8&theme=dark" />
 </p>
 
 ## 📦 Frameworkler
@@ -46,11 +45,33 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  ![](https://github-readme-stats.vercel.app/api?username=Rodinyamert48&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12)
+
+  <br><br>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&theme=tokyonight&hide_border=true&layout=compact&border_radius=12&langs_count=10)
 
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+# 🔥 Son Aktiviteler
+
+<div align="center">
+
+| Tarih | Aktivite |
+|:-----:|----------|
+| 🕐 **29 Tem 2026** | [`Ahir`](https://github.com/Rodinyamert48/Ahir) reposuna push yapıldı (C#) |
+| 🕐 **29 Tem 2026** | [`Ahir`](https://github.com/Rodinyamert48/Ahir) reposu oluşturuldu |
+| 🕐 **26 Tem 2026** | [`dpp`](https://github.com/Rodinyamert48/dpp) reposuna push yapıldı (Python) |
+| 🕐 **23 Tem 2026** | [`dondurmamgaymak`](https://github.com/Rodinyamert48/dondurmamgaymak) reposu oluşturuldu (HTML) |
+| 🕐 **14 Tem 2026** | [`TheRepubliaTimesTR`](https://github.com/Rodinyamert48/TheRepubliaTimesTR) reposuna son commit (JavaScript) |
+
+> 📌 *Bu tablo GitHub API'den alınan canlı verilerle manuel olarak güncellenmiştir.*
 
 </div>
 
