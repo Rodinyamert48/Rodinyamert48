@@ -48,13 +48,6 @@
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rodinyamert48&theme=tokyonight&hide_border=true"/>
 
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
-
-</div>
-
 ---
 
 # 🎯 Hedeflerim
