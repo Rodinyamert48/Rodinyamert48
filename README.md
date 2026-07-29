@@ -46,7 +46,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rodinyamert48&theme=dark)
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=dark" alt="GitHub Streak" />
+</p>
 
 
   <br><br>
