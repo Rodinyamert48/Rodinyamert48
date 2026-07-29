@@ -41,37 +41,13 @@
 
 ---
 
-# 📊 GitHub İstatistikleri
-
-<div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=Rodinyamert48&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12)
-
-  <br><br>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&theme=tokyonight&hide_border=true&layout=compact&border_radius=12&langs_count=10)
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-# 🔥 Son Aktiviteler
+# 🔥 Son Aktivite
 
 <div align="center">
 
 | Tarih | Aktivite |
 |:-----:|----------|
 | 🕐 **29 Tem 2026** | [`Ahir`](https://github.com/Rodinyamert48/Ahir) reposuna push yapıldı (C#) |
-| 🕐 **29 Tem 2026** | [`Ahir`](https://github.com/Rodinyamert48/Ahir) reposu oluşturuldu |
-| 🕐 **26 Tem 2026** | [`dpp`](https://github.com/Rodinyamert48/dpp) reposuna push yapıldı (Python) |
-| 🕐 **23 Tem 2026** | [`dondurmamgaymak`](https://github.com/Rodinyamert48/dondurmamgaymak) reposu oluşturuldu (HTML) |
-| 🕐 **14 Tem 2026** | [`TheRepubliaTimesTR`](https://github.com/Rodinyamert48/TheRepubliaTimesTR) reposuna son commit (JavaScript) |
-
-> 📌 *Bu tablo GitHub API'den alınan canlı verilerle manuel olarak güncellenmiştir.*
 
 </div>
 
