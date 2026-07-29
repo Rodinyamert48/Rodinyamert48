@@ -47,25 +47,14 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodinyamert48&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodinyamert48&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodinyamert48&theme=tokyo-night&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
-
-</div>
-
----
-
-# 🔥 Son Aktivite
-
-<div align="center">
-
-| Tarih | Aktivite |
-|:-----:|----------|
-| 🕐 **29 Tem 2026** | [`Ahir`](https://github.com/Rodinyamert48/Ahir) reposuna push yapıldı (C#) |
 
 </div>
 
