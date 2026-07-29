@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Rodinyamert48&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 
   <br><br>
 
