@@ -60,10 +60,10 @@
 | 🎓 | MCBÜ'de Yazılım / Bilgisayar Mühendisliği okumak | ⏳ |
 | 💼 | Microsoft, Mojang veya Rockstar'da çalışmak | ⏳ |
 | 🚀 | Profesyonel Yazılım Geliştirici olmak | ⏳ |
-| 🌍 | Büyük Ölçekli Projeler geliştirmek | ⏳ |
+| 🌍 | Büyük Ölçekli Projeler geliştirmek | ✅ |
 | 🎮 | Kendi oyunlarımı yayınlamak | ⏳ |
 | 📱 | Mobil, masaüstü ve web uygulamaları geliştirmek | ⏳ |
-| 🔥 | Açık kaynağa katkı sağlamak | ⏳ |
+| 🔥 | Açık kaynağa katkı sağlamak | ✅ |
 | 💸 | Play Store veya Steam'de yayın yapmak | ⏳ |
 
 </div>
