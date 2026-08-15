@@ -38,7 +38,7 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
 
 ---
 
-### 🛠️ Teknoloji Cephaneliğim
+<h3 align="center">🛠️ Teknoloji Cephaneliğim</h3>
 
 <table>
   <tr>
