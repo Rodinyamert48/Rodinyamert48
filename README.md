@@ -58,11 +58,11 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
     </td>
     <td align="center" width="33%">
       <h3>📦 Framework & Kütüphaneler</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,docker&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,nodejs&perline=3&theme=dark" />
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Araçlar & Veritabanı</h3>
-      <img src="https://skillicons.dev/icons?i=unity,unreal,vscode,visualstudio,github,supabase,firebase&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=unity,unreal,vscode,visualstudio,github,supabase,firebase,docker&perline=3&theme=dark" />
     </td>
   </tr>
 </table>
