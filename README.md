@@ -54,7 +54,7 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
   <tr>
     <td align="center" width="33%">
       <h3>💻 Diller</h3>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,rust,py,js,ts,html,css&perline=4&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,py,js,ts,html,css&perline=4&theme=dark" />
     </td>
     <td align="center" width="33%">
       <h3>📦 Framework & Kütüphaneler</h3>
