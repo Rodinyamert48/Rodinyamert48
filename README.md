@@ -55,22 +55,22 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
     <td align="center" width="25%">
       <h3>💻 Ana Dillerim</h3>
       <p>İşlerin temeli. Web sayfalarından oyunlara kadar her şey bu dillerle başlıyor.</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,cs&perline=4&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js&perline=4&theme=dark" />
     </td>
     <td align="center" width="25%">
       <h3>📦 Backend & Framework</h3>
       <p>Önyüzün arkasındaki güç. Modern framework'ler ve sunucu tarafı araçlarla projelerimi hayata geçiriyorum.</p>
-      <img src="https://skillicons.dev/icons?i=nodejs,nextjs,angular,vue,docker&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nextjs,docker&perline=3&theme=dark" />
     </td>
     <td align="center" width="25%">
       <h3>🗄️ Veritabanı</h3>
       <p>Verinin güvenle durduğu yer. Projelerimde ağırlıklı olarak bulut tabanlı çözümler kullanıyorum.</p>
-      <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=supabase,firebase&perline=3&theme=dark" />
     </td>
     <td align="center" width="25%">
       <h3>⚙️ Araçlarım</h3>
       <p>Geliştirme sürecimi hızlandıran editör, sürüm kontrolü ve oyun motorları.</p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,unreal,unity&perline=3&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" />
     </td>
   </tr>
 </table>
