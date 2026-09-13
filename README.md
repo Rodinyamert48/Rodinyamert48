@@ -53,8 +53,8 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <h3>💻 Ana Dillerim</h3>
-      <p>İşlerin temeli. Web sayfalarından oyunlara kadar her şey bu dillerle başlıyor.</p>
+      <h3>💻 Ana Dilim</h3>
+      <p>İşlerin temeli. Web sayfalarının ana dili.</p>
       <img src="https://skillicons.dev/icons?i=js&perline=4&theme=dark" />
     </td>
     <td align="center" width="25%">
@@ -69,7 +69,7 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
     </td>
     <td align="center" width="25%">
       <h3>⚙️ Araçlarım</h3>
-      <p>Geliştirme sürecimi hızlandıran editör, sürüm kontrolü ve oyun motorları.</p>
+      <p>Geliştirme sürecimi hızlandıran editör, sürüm kontrol programlarım.</p>
       <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" />
     </td>
   </tr>
