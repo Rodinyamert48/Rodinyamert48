@@ -34,8 +34,8 @@ Bilişim dünyasına tutkuyla bağlı bir öğrenciyim ve her gün yeni teknoloj
 
 | # | Hedef | Durum |
 |:-:|-------|:-----:|
-| 🎯 | YKS'de ilk **100.000** sıralamaya girmek | ⏳ |
-| 🎓 | MCBÜ'de Yazılım / Bilgisayar Mühendisliği okumak | ⏳ |
+| 🎯 | YKS'de ilk **50.000** sıralamaya girmek | ⏳ |
+| 🎓 | AKÜ'de Yazılım / Bilgisayar Mühendisliği okumak | ⏳ |
 | 💼 | Microsoft, Mojang veya Rockstar'da çalışmak | ⏳ |
 | 🚀 | Profesyonel Yazılım Geliştirici olmak | ⏳ |
 | 🌍 | Büyük Ölçekli Projeler geliştirmek | ✅ |
